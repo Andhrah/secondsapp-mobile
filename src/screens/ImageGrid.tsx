@@ -34,7 +34,8 @@ const ImageGrid = () => {
     setCurrentImageInView(image); // Set the current image
     setIsPortraitVisible(true);
   };
-  
+
+  // This function renders image grid
   const renderItem = ({ item }: { item: ImageItem }) => {
 
     const index = selectedImages.findIndex(selectedItem => selectedItem.id === item.id) + 1;
@@ -67,10 +68,12 @@ const ImageGrid = () => {
     );
   };
 
+  // This function removes image from selected
   const removeImage = (image: ImageItem) => {
     setSelectedImages(prevImages => prevImages.filter(selected => selected.id !== image.id));
   };
 
+  // Select open image
   const selectFromModal = () => {
     if (currentImageInView) {
       toggleSelection(currentImageInView);
