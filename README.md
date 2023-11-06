@@ -1,4 +1,4 @@
-#Style Showcase: Your Digital Runway
+# Style Showcase: Your Digital Runway
 
 Embark on a sartorial adventure with Style Showcase, the ultimate app for fashion enthusiasts. Immerse yourself in a world where style meets technology, giving you the power to browse, select, and organize the latest trends and timeless outfits. With our user-friendly interface, fashion is at your fingertips, allowing you to curate your personal lookbook from a carefully selected collection of images. Whether you're seeking inspiration for your next ensemble or just love to admire haute couture, Style Showcase is your front-row ticket to the fashion world's most coveted looks.
 
